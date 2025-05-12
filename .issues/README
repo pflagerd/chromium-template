@@ -1,0 +1,5 @@
+This is about putting all the same functionality as in github.com or gitlab.com into the repo itself.
+
+The idea is that one should be able to clone the repository, do an equivalent to a python venv "activate", and one has customized cli tools (accessible by bash) and GUIs (accessible by a browser (chromium)) which require no other pre-installed tools.
+
+This is designed for Linux (and maybe Linux on Windows).
