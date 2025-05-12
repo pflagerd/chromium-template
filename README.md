@@ -1,6 +1,6 @@
-# fastapi_template
+# chromium-template
 
-This repository contains artifacts created by David and Dan (D&D) when they executed the tutorial at [FastAPI > Learn > Tutorial - User Guide](https://fastapi.tiangolo.com/tutorial/).
+This repository contains a template website requiring only the chromium browser and npm (from nodejs) for package management.
 
 <br>
 
@@ -11,18 +11,15 @@ This repository contains artifacts created by David and Dan (D&D) when they exec
 ## Setup
 You must have python3 and git.
 
-| OS | git | python3 |
-| -------- | -------- | -------- |
-| kubuntu 24.04.1 LTS   | 2.43.0, 2.45.2   | Python 3.12.3   |
-| kubuntu 24.10   | 2.45.2   | Python 3.12.7   |
-| macOS Sequoia 15.1.1   | 2.39.5 (Apple Git-154)   | Python 3.12.7   |
+| OS | git | chromium | npm |
+| -------- | -------- | -------- | -------- |
+| kubuntu 24.10   | 2.45.2   | 136.0.7103.59 (Official Build) snap (64-bit)   | 9.6.7 |
 
 Git clone current repo to your local machine
 
-​	`git clone https://github.com/pflagerd/fastapi_template.git`
+​	`git clone https://github.com/pflagerd/chromium-template.git`
 
 Type ./RUNME
 
-You should see a Chromium browser with some tabs launched.
+You should see a Chromium browser with a tab showing the current directory's contents.
 
-Modify RUNME to change which tabs you see.
